@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **mutluaysegul414@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/hp/Desktop/Cert%C4%B1f%C4%B1cate.pdf](file:///C:/Users/hp/Desktop/Cert%C4%B1f%C4%B1cate.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
