@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mutluaysegul414@gmail.com**
 
-- 📄 Know about my experiences file:///C:/Users/hp/Downloads/8312174148AM%20(1).pdf
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
