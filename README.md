@@ -1,11 +1,8 @@
 
 
-
-
-
-
 <h1 align="center">Hi 👋, I'm Aysegul Mutlu</h1>
 <h3 align="center">A passionate backend developer Turkey</h3>
+
 
 
 - 🌱 I’m currently learning **Java**
@@ -13,6 +10,8 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **mutluaysegul414@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/hp/Downloads/8312174148AM%20(1).pdf](file:///C:/Users/hp/Downloads/8312174148AM%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +27,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysegulmutlu&show_icons=true&locale=en" alt="aysegulmutlu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysegulmutlu&" alt="aysegulmutlu" /></p>
+
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysegulmutlu&label=Profile%20views&color=0e75b6&style=flat" alt="aysegulmutlu" /> </p>
